@@ -1,0 +1,13 @@
+﻿<xapCache source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Bin\Debug\hangman_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/13/2014 10:40:23 AM">
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\obj\Debug\hangman.dll" archivePath="hangman.dll" lastWriteTime="10/13/2014 10:40:19 AM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/14/2014 6:03:49 AM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/14/2014 6:03:49 AM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/14/2014 6:03:49 AM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/14/2014 6:03:49 AM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/14/2014 6:03:49 AM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="8/7/2014 7:31:17 PM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/14/2014 6:03:49 AM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/14/2014 6:03:49 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="1/1/2013 6:57:00 PM" />
+  <file source="C:\Users\Ray\Documents\Visual Studio 2013\Projects\hangman\hangman\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/14/2014 6:04:57 AM" />
+</xapCache>

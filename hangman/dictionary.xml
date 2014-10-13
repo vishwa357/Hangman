@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<levels>
+  <level number="0">
+    <word>Tiger</word>
+    <word>Phone</word>
+    <word>Apple</word>
+    <word>Game</word>
+    <word>Spoon</word>
+    <word>Plate</word>
+    <word>Book</word>
+    <word>Wheel</word>
+    <word>Chair</word>
+    <word>Water</word>
+  </level>
+  <level number="1">
+    <word>Toolbox</word>
+    <word>Action</word>
+    <word>Monkey</word>
+    <word>Window</word>
+    <word>Horse</word>
+    <word>January</word>
+    <word>Mother</word>
+    <word>Wonder</word>
+    <word>Doctor</word>
+    <word>Learn</word>
+  </level>
+  <level number="2">
+    <word>Clown</word>
+    <word>King</word>
+    <word>Begger</word>
+    <word>World</word>
+    <word>Player</word>
+    <word>Bottle</word>
+    <word>Mobile</word>
+    <word>Mountain</word>
+    <word>Fantastic</word>
+    <word>Memory</word>
+  </level>
+  <level number="3">
+    <word>Advice</word>
+    <word>Exist</word>
+    <word>Mount</word>
+    <word>Shout</word>
+    <word>Shallow</word>
+    <word>Garage</word>
+    <word>Habit</word>
+    <word>Palace</word>
+    <word>Donkey</word>
+    <word>Cookies</word>
+  </level>
+  <level number="4">
+    <word>Hunter</word>
+    <word>Habit</word>
+    <word>Harry</word>
+    <word>Image</word>
+    <word>Label</word>
+    <word>Lungs</word>
+    <word>Pride</word>
+    <word>Possible</word>
+    <word>Rhyme</word>
+    <word>Rocky</word>
+  </level>
+  <level number="5">
+    <word>Calm</word>
+    <word>Positive</word>
+    <word>Slope</word>
+    <word>Solar</word>
+    <word>Recall</word>
+    <word>Instant</word>
+    <word>Coach</word>
+    <word>Folks</word>
+    <word>Habit</word>
+    <word>Official</word>
+  </level>
+  <level number="6">
+    <word>Practical</word>
+    <word>Joke</word>
+    <word>Industry</word>
+    <word>Police</word>
+    <word>Wealth</word>
+    <word>Shallow</word>
+    <word>Scare</word>
+    <word>Grandmother</word>
+    <word>Poetry</word>
+    <word>Breeze</word>
+  </level>
+  <level number="7">
+    <word>Manufacture</word>
+    <word>Selfish</word>
+    <word>Kind</word>
+    <word>Polite</word>
+    <word>Humble</word>
+    <word>Requirement</word>
+    <word>Magician</word>
+    <word>Selection</word>
+    <word>Skeleton</word>
+    <word>Arrangement</word>
+  </level>
+  <level number="8">
+    <word>Mustard</word>
+    <word>Autumn</word>
+    <word>Explanation</word>
+    <word>Mysterious</word>
+    <word>Neighbourhood</word>
+    <word>Discussion</word>
+    <word>Dangerous</word>
+    <word>Satellite</word>
+    <word>University</word>
+    <word>Constant</word>
+  </level>
+  <level number="9">
+    <word>Exchange</word>
+    <word>Label</word>
+    <word>Kids</word>
+    <word>Lungs</word>
+    <word>Relationship</word>
+    <word>Remarkable</word>
+    <word>Independent</word>
+    <word>Occasional</word>
+    <word>Sailfish</word>
+    <word>Installment</word>
+  </level>
+  <level number="10">
+    <word>Nightmare</word>
+    <word>Spotlight</word>
+    <word>Matchstick</word>
+    <word>Sprinkler</word>
+    <word>Snuggle</word>
+    <word>Elf</word>
+    <word>Astronaut</word>
+    <word>Sunburn</word>
+    <word>Paperback</word>
+    <word>Wristwatch</word>
+  </level>
+  <level number="11">
+    <word>Feudalism</word>
+    <word>Cardboard</word>
+    <word>Cardboard</word>
+    <word>Capitalism</word>
+    <word>Publisher</word>
+    <word>Handwriting</word>
+    <word>Billboard</word>
+    <word>Midsummer</word>
+    <word>Population</word>
+    <word>Hatch</word>
+  </level>
+  <level number="12">
+    <word>flannel</word>
+    <word>fortnight</word>
+    <word>silhouette</word>
+    <word>sentence</word>
+    <word>cuticle</word>
+    <word>forever</word>
+    <word>escalator</word>
+    <word>dismantle</word>
+    <word>advertise</word>
+    <word>negotiate</word>
+  </level>
+</levels>
